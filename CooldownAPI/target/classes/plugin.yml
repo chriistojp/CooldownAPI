@@ -1,0 +1,7 @@
+name: CooldownAPI
+version: 1.0-SNAPSHOT
+main: me.christo.cooldown.Cooldowns
+api-version: 1.16
+authors: [ Christo ]
+description: Cooldowns that don't restart after server restart.
+website: http://www.devchristo.com/
